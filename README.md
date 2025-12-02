@@ -1,6 +1,9 @@
 # AIRNet
 This is the official implementation of AIRNet, as proposed in our upcoming publication.
 
+Our paper has been accepted by Computers in Industry. Please refer to:
+https://www.sciencedirect.com/science/article/pii/S0166361525001514
+
 # Codes
 - models: Containing the codes for model construction.
   - layers.py: Basic network layers.
