@@ -1,7 +1,7 @@
 # AIRNet
 This is the official implementation of AIRNet, as proposed in our upcoming publication.
 
-Our paper has been accepted by Computers in Industry. Please refer to:
+Our paper, entitled 'Deep learning-powered heating, ventilation, and air conditioning compressor fault diagnosis facing unseen domains and class imbalances', has been accepted by Computers in Industry. Please refer to:
 https://www.sciencedirect.com/science/article/pii/S0166361525001514
 
 # Codes
